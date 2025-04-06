@@ -1,17 +1,18 @@
-﻿# MyJavaTasks
-### Проект для практики Java
+# MyJavaTasks
+### A Java practice project
 
-Это мой личный проект, в котором я практикую основы Java:
-- переменные
-- условные операторы (if/else)
-- циклы (for/while)
-- генерация случайных чисел
-- пользовательский ввод
-- мини-игры
+This is my personal project where I practice the basics of Java:
+- variables
+- conditional statements (if/else)
+- loops (for/while)
+- random number generation
+- user input
+- mini-games
+- and so on...
 
-Цель: стать крутым разработчиком и получить работу в топовой IT-компании!
+Goal: to become a cool developer and get a job at a top IT company!
 
 ---
 
-*Автор:* Eldar Abdivaitov  
+*The author:* Eldar Abduvaitov  
 *GitHub:* [eldarmeta](https://github.com/eldarmeta)
