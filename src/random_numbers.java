@@ -20,10 +20,23 @@ public class random_numbers {
 //        System.out.println(number2);
 //        System.out.println(number3);
 
-        double number;
+//        double number;
+//
+//        number = random.nextDouble();
+//
+//    System.out.println(number);
 
-        number = random.nextDouble();
+        boolean isHeads;
 
-    System.out.println(number);
+        isHeads = random.nextBoolean();
+
+//        System.out.println(isHeads);
+
+        if(isHeads) {
+            System.out.println("HEADS");
+        }
+        else{
+            System.out.println("TAILS");
+        }
     }
 }
