@@ -1,3 +1,5 @@
+package java2025.Informatics;
+
 import java.util.Scanner;
 
 public class twoSum {
